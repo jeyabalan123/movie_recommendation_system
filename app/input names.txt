@@ -1,0 +1,10 @@
+Some Input Samples:
+
+Red Planet
+Cars 2
+Toy Story [1,2,3]
+The Rocker
+World War Z
+Evil Dead II
+The Avengers
+Avengers: Age of Ultrons
